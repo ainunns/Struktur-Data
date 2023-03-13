@@ -1,3 +1,9 @@
+/*
+    Praktikum 1 Struktur Data
+    Author: Ainun Nadhifah Syamsiyah
+    Problem: PULU - Tumpuccan Si Luccman
+*/
+
 #include <bits/stdc++.h>
 using namespace std;
 int dp[100001][3], a[100001][3];

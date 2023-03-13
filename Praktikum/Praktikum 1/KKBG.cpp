@@ -1,3 +1,9 @@
+/*
+    Praktikum 1 Struktur Data
+    Author: Ainun Nadhifah Syamsiyah
+    Problem: KKBG - Kartu Kok Bisa Gini
+*/
+
 #include <bits/stdc++.h>
 using namespace std;
 int main()

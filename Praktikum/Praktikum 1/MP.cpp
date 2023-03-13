@@ -1,3 +1,9 @@
+/*
+    Praktikum 1 Struktur Data
+    Author: Ainun Nadhifah Syamsiyah
+    Problem: MP - Miko Mencari Pacar
+*/
+
 #include <bits/stdc++.h>
 #define piis pair<pair<int, int>, string>
 using namespace std;
